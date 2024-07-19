@@ -1,0 +1,65 @@
+*{
+background-color:#0B1216; 
+}
+body {
+    display: flex;
+}
+header{
+   background-color: #0b1216
+
+}
+.option{
+    background-color;
+    color: aliceblue;
+    width: 5%;
+    height: 100%;
+    display:flex;
+
+}
+
+.firstoption{
+    background-color: white;
+    width: 100%;
+    position: relative;
+    left: 30%;
+    top: 2%;
+    display: inline;
+    justify-content: space-between;
+}
+.firstimg{
+    width: 50%;
+    height: 50%;
+    border: 1px;
+    border-width: 20cap;
+}
+ .settingandpic{
+
+    padding-top: 500px;
+} 
+
+.container{
+    display: flex;
+    justify-content: space-around
+    background-color:;
+    width: 100%;
+    color:aliceblue;
+}
+
+.right-section{
+    display: flex;
+    background-color: aqua;
+
+}
+.icon {
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30%;
+    margin-left: 100%;
+}
+.create{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
